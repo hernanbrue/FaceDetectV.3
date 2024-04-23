@@ -1,0 +1,11 @@
+-python 3.10 (3.11 no quiere funcar con dlib y mediapipe)
+-en pycharm cambiar el interprete a la versión de python mencionada
+-cmake
+-mediapipe. La mayoría los hace con dlib (contiene tmb algoritmos de machine learning y visión artificial) pero es problemática de instalar en sistemas nuevos. Además, mediapipe tiene muchos mas puntos de detección.
+-face-recognition
+-opencv-python
+-numpy
+
+con dlib una opción era cambiar el path de python dentro de vscode a la carpeta donde está python
+	IMPORTANTE: ANTES DE PROBAR CUALQUIER COSA ASEGURARSE DE QUE ESTÉ INSTALADO CMAKE, QUE TENGA SU VARIABLE DE ENTORNO BIEN COLOCADA Y QUE ESTÉ INSTALADA
+			LA LIBRERÍA / PAQUETE DE C++ CON VISUAL STUDIO

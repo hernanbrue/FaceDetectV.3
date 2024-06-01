@@ -2,7 +2,6 @@
 
 Este proyecto es un sistema de reconocimiento facial simple que utiliza la biblioteca Dlib y OpenCV en Python para identificar caras en tiempo real y compararlas con imágenes de referencia para la toma de asistencia en un curso universitario.
 
-Aquí hay un archivo README básico para tu proyecto en Git:
 
 ---
 
@@ -45,4 +44,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 --- 
 
-Este archivo README proporciona una visión general del proyecto, instrucciones de instalación, uso, cómo contribuir y la información de licencia. Puedes personalizarlo según tus necesidades y agregar más detalles si es necesario.
